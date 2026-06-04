@@ -9,7 +9,10 @@ How to compile python scripts fast:
 5. open the exe in the dist folder
 
 V 0.1 :
-        basic ai generated scripts based on official documentation (https://www.semanticscholar.org/paper/Automated-Neuropsychological-Assessment-Metrics-Rice-Lindsay/990f8f99bf9b7164fc8b92d8cac025d1de5d960c)
+        Basic ai generated scripts based on official documentation (https://www.semanticscholar.org/paper/Automated-Neuropsychological-Assessment-Metrics-Rice-Lindsay/990f8f99bf9b7164fc8b92d8cac025d1de5d960c)
+V 0.2 :
+		Added Options. now the game can be made more difficult or set for long term memory.
+		Correct answer now gives a green flash.
         
 <img width="640" alt="square-memory" src="https://github.com/user-attachments/assets/cc262bee-721a-4e5a-9509-760c993ffc40" />
 <img width="640" alt="symbol-match" src="https://github.com/user-attachments/assets/21498286-f2c7-4193-81c9-47831b00daa0" />
