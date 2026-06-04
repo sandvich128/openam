@@ -15,4 +15,7 @@ V 0.2 :
 		Correct answer now gives a green flash.
         
 <img width="640" alt="square-memory" src="https://github.com/user-attachments/assets/cc262bee-721a-4e5a-9509-760c993ffc40" />
+<img width="1619" height="951" alt="image" src="https://github.com/user-attachments/assets/d3e29dd7-31c3-45df-aa7e-652a7ece514e" />
+
 <img width="640" alt="symbol-match" src="https://github.com/user-attachments/assets/21498286-f2c7-4193-81c9-47831b00daa0" />
+
