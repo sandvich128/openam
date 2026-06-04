@@ -13,7 +13,7 @@ V 0.1 :
 
 
 V 0.2 :
-		Added Options. now the game can be made more difficult or set for long term memory.
+		(Square Memory)Added Options. now the game can be made more difficult or set for long term memory.
 		Correct answer now gives a green flash.
         
 <img width="640" alt="square-memory" src="https://github.com/user-attachments/assets/cc262bee-721a-4e5a-9509-760c993ffc40" />
