@@ -10,6 +10,8 @@ How to compile python scripts fast:
 
 V 0.1 :
         Basic ai generated scripts based on official documentation (https://www.semanticscholar.org/paper/Automated-Neuropsychological-Assessment-Metrics-Rice-Lindsay/990f8f99bf9b7164fc8b92d8cac025d1de5d960c)
+
+
 V 0.2 :
 		Added Options. now the game can be made more difficult or set for long term memory.
 		Correct answer now gives a green flash.
